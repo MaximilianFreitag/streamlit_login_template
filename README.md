@@ -29,8 +29,7 @@ Demo -->
    streamlit run streamlit_login_template
    ```
 
-<br> 
-________________________________________________________________
+
 <br>  
  
  
