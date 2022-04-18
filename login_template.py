@@ -55,7 +55,7 @@ def main():
 
 	if choice == "Home":
         
-		st.subheader("Data Labeling App")
+		st.subheader("Login App with SQL Database")
         ############################
 
 
