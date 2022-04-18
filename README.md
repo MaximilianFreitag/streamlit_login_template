@@ -14,7 +14,7 @@ Demo -->
 
 <p align="center">
     <a href="https://github.com/MaximilianFreitag/streamlit_login_template">
-        <img src="https://github.com/MaximilianFreitag/Zufallswort/blob/main/image_gen.jpg">
+        <img src="https://github.com/MaximilianFreitag/streamlit_login_template/login.png">
     </a>
 </p>
 
