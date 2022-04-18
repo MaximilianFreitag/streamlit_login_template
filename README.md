@@ -1,14 +1,19 @@
-### Generate random german words / Generiere zufällige deutsche Wörter (Python)
+### A template for a login / sign up page for streamlit
 
-###### Pip install ready german word generator with a 300.000 word dictionary. 
+###### Useful for making the app private 
 
-Try it out in google colabs within your browser --> https://colab.research.google.com/drive/1VbDH18OBfME5m_4oTxMlwDjyW1zbZVxZ?usp=sharing
+
+
+Demo --> 
+
+
+
 
 <br> 
 
 
 <p align="center">
-    <a href="https://github.com/MaximilianFreitag/Zufallswort">
+    <a href="https://github.com/MaximilianFreitag/streamlit_login_template">
         <img src="https://github.com/MaximilianFreitag/Zufallswort/blob/main/image_gen.jpg">
     </a>
 </p>
