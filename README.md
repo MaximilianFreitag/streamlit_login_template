@@ -11,12 +11,8 @@ Demo -->
 
 <br> 
 
+![login](https://user-images.githubusercontent.com/46624616/163812035-8cc7f7dd-2bcc-4786-96dd-66f4fbd112db.jpg)
 
-<p align="center">
-    <a href="https://github.com/MaximilianFreitag/streamlit_login_template">
-        <img src="https://github.com/MaximilianFreitag/streamlit_login_template/login.jpg">
-    </a>
-</p>
 
 
 <!-- GETTING STARTED -->
