@@ -26,7 +26,7 @@ Demo --> https://share.streamlit.io/maximilianfreitag/streamlit_login_template/m
 
 2. Cd into the folder and Run the file with 
    ```sh
-   streamlit run streamlit_login_template
+   streamlit run login_template.py
    ```
 
 
