@@ -24,7 +24,7 @@ Demo --> https://share.streamlit.io/maximilianfreitag/streamlit_login_template/m
    git clone https://github.com/MaximilianFreitag/streamlit_login_template
    ```
 
-2. Run the file with 
+2. Cd into the folder and Run the file with 
    ```sh
    streamlit run streamlit_login_template
    ```
